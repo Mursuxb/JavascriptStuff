@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2f58f4b-ef2e-4651-9587-f1d46ad0ed6e" name="Changes" comment="" />
+    <list default="true" id="e2f58f4b-ef2e-4651-9587-f1d46ad0ed6e" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +82,15 @@
       <workItem from="1667806738697" duration="15000" />
       <workItem from="1667806769491" duration="7000" />
       <workItem from="1667806892113" duration="5662000" />
+      <workItem from="1667815583903" duration="2987000" />
     </task>
+    <task id="LOCAL−00001" summary="Update">
+      <created>1667815825397</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1667815825397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
