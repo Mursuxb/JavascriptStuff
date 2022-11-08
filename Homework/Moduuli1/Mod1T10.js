@@ -23,4 +23,4 @@ for (let times = 0; times <= rolls; times++){
 }
 let propability = ((successfulrolls/rolls)*100).toFixed(2)
 document.querySelector('#p1'
-        ).innerHTML = propability + ' %'
+        ).innerHTML = "Chances of getting " + strsumdice + " with " + numdice +  " dice is " + propability + ' %'
