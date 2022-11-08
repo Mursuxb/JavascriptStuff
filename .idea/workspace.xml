@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2f58f4b-ef2e-4651-9587-f1d46ad0ed6e" name="Changes" comment="Done" />
+    <list default="true" id="e2f58f4b-ef2e-4651-9587-f1d46ad0ed6e" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavascriptStuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavascriptStuff.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Moduuli1/Mod1T4.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
@@ -27,16 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Koulustuff/Ohjelmointi/JavascriptStuff&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Koulustuff/Ohjelmointi/JavascriptStuff",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="JavascriptStuff" />
@@ -72,7 +87,8 @@
       <workItem from="1667806738697" duration="15000" />
       <workItem from="1667806769491" duration="7000" />
       <workItem from="1667806892113" duration="5662000" />
-      <workItem from="1667815583903" duration="3334000" />
+      <workItem from="1667815583903" duration="2987000" />
+      <workItem from="1667838736166" duration="6784000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <created>1667815825397</created>
@@ -80,13 +96,7 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1667815825397</updated>
     </task>
-    <task id="LOCAL−00002" summary="Done">
-      <created>1667818910756</created>
-      <option name="number" value="LOCAL−00002" />
-      <option name="presentableId" value="LOCAL−00002" />
-      <updated>1667818910756</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +115,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <MESSAGE value="Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavascriptStuff$test.coverage" NAME="test Coverage Results" MODIFIED="1667840392751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Moduuli1" />
   </component>
 </project>
