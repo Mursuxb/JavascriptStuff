@@ -21,9 +21,6 @@ for (let x = 0; x < candidate_ammount; x++) {
 for (let index in candidates) {
     console.log(candidates[index].name)
 }
-// for (let p in candidates){
-//     console.log(candidates[p].name.includes("Tim"))
-// }
 const voter_ammount = parseInt(prompt("How many voters?"))
 for (let y = 1; y <= voter_ammount; y++) {
     let vote = prompt("Who do you want to vote for? (Candidates in console)")
