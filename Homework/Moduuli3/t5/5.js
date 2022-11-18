@@ -97,18 +97,21 @@ for (let x in picArray) {
     const article = document.createElement('article')
     target.appendChild(article)
     article.setAttribute('class', 'card');
-    let selected_article = document.querySelectorAll('article')[x];
-    selected_article.innerHTML = `<h2></h2>
-  <figure>
-    <img src="" alt="">
-      <figcaption>caption_from_picarray</figcaption>
-  </figure>
-  <p>description_from_picArray</p>
-</article>`
+    const h2 = document.createElement('h2')
+    const figure = document.createElement('figure')
+    const p = document.createElement('p')
+    article.appendChild(h2)
+    h2.innerText = picArray[x].title
+    article.appendChild(figure)
+    article.appendChild(p)
+    p.innerText = picArray[x].description
+    let img = document.createElement('img')
+    let figcaption = document.createElement('figcaption')
+    figure.appendChild(img)
+    figure.appendChild(figcaption)
+    document.querySelectorAll('img')[x].setAttribute('src', picArray[x].image.medium)
+    document.querySelectorAll('img')[x].setAttribute('alt', picArray[x].title)
+    document.querySelectorAll('figcaption')[x].innerText = picArray[x].caption
 }
-for (let y in picArray) {
-    document.querySelectorAll('article h2')[y].innerHTML = picArray[y].title
-    document.querySelectorAll('article figure')[y].innerHTML = `<img src=${picArray[y].image.medium} alt="${picArray[y].title}"><figcaption>${picArray[y].caption}</figcaption>`
-    document.querySelectorAll('article p')[y].innerHTML = picArray[y].description
-}
+
 
